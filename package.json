@@ -14,5 +14,10 @@
     "pug": "2.0.0-beta11",
     "xxxx": "^3.0.4",
     "yyy": "^1.0.1"
-  }
+  },
+  "description": "remote Render server link: https://s24wa61chamala.onrender.com/",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
